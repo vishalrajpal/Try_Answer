@@ -1,0 +1,550 @@
+{
+	"training_data":[		
+		{
+			"index":2,
+			"text":"A pet store had 13 siamese cats and 5 house cats.",
+			"nouns":[
+				"store",
+				"cats"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "store",
+					"type": "pet",
+					"quantity": 0
+				},
+				{
+					"noun": "cats",
+					"type": "siamese",
+					"quantity": 13
+				},
+				{
+					"noun": "cats",
+					"type": "house",
+					"quantity": 5
+				}
+			]
+		},
+		
+		{
+			"index":3,
+			"text":"The school cafeteria ordered 42 red apples and 7 green apples for students lunches.",
+			"nouns":[
+				"apples",
+				"cafeteria"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "cafeteria",
+					"type": "school",
+					"quantity": 0
+				},
+				{
+					"noun": "apples",
+					"type": "red",
+					"quantity": 42
+				},
+				{
+					"noun": "apples",
+					"type": "green",
+					"quantity": 7
+				}
+			]
+		},
+		
+		{
+			"index":4,
+			"text":"Lana picked 36 tulips and 37 roses to make flower bouquets.",
+			"nouns":[
+				"tulips",
+				"bouquets",
+				"Lana",
+				"roses"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "bouquets",
+					"type": "flower",
+					"quantity": 0
+				}				
+			]
+		},
+	
+		{
+			"index":6,
+			"text":"Roger had 16 dollars.",
+			"nouns":[
+				"dollars",
+				"Roger"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "dollars",
+					"quantity": 16
+				}								
+			]
+		},
+		
+		{
+			"index":8,
+			"text":"Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school.",
+			"nouns":[
+				"shirts",
+				"Ned"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "shirts",
+					"type": "short sleeve",
+					"quantity": 9
+				},
+				{
+					"noun": "shorts",
+					"type": "long sleeve",
+					"quantity": 21
+				}							
+			]
+		},
+		
+		{
+			"index":9,
+			"text":"Faye had 46 math problems and 9 science problems for homework.",
+			"nouns":[
+				"problems",
+				"Faye"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "problems",
+					"type": "math",
+					"quantity": 46
+				},
+				{
+					"noun": "problems",
+					"type": "science",
+					"quantity": 9
+				}							
+			]
+		},
+		
+		{
+			"index":10,
+			"text":"Amy had 4 music files and 21 video files on her flash drive.",
+			"nouns":[
+				"Amy",
+				"files"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "files",
+					"type": "music",
+					"quantity": 4
+				},
+				{
+					"noun": "files",
+					"type": "video",
+					"quantity": 21
+				}						
+			]
+		},
+		{
+			"index":12,
+			"text":"There were 39 girls and 4 boys trying out for the schools basketball team.",
+			"nouns":[
+				"boys",
+				"team",
+				"girls"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "team",
+					"type": "schools basketball",
+					"quantity": 0
+				},
+				{
+					"noun": "boys",
+					"quantity": 4
+				},
+				{
+					"noun": "girls",
+					"quantity": 39
+				}						
+			]
+		},
+		{
+			"index":13,
+			"text":"At the schools book fair Sam bought 13 adventure books and 17 mystery books.",
+			"nouns":[
+				"Sam",
+				"books",
+				"fair"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "fair",
+					"type": "schools book",
+					"quantity": 0
+				},
+				{
+					"noun": "book",
+					"type": "adventure",
+					"quantity": 13
+				},
+				{
+					"noun": "book",
+					"type":"mystery",
+					"quantity": 17					
+				}						
+			]
+		},
+		{
+			"index":14,
+			"text":"Edward started his own lawn mowing business.",
+			"nouns":[
+				"Edward",
+				"business"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "business",
+					"type": "lawn mowing",
+				}			
+			]
+		},
+		{
+			"index":15,
+			"text":"While shopping, Maria bought 35 green towels and 21 white towels.",
+			"nouns":[
+				"Maria",
+				"towels"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "towels",
+					"type": "green",
+					"quantity": 35
+				},
+				{
+					"noun": "towels",
+					"type": "white",
+					"quantity": 21
+				}					
+			]
+		},
+		{
+			"index":17,
+			"text":"For the school bake sale Carol made 30 cupcakes.",
+			"nouns":[
+				"Carol",
+				"cupcakes",
+				"sale"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "sale",
+					"type": "school bake"
+				},
+				{
+					"noun": "cupcakes",
+					"quantity": 30
+				}					
+			]
+		},
+		
+		{
+			"index":18,
+			"text":"A book store had 41 books in the bargin bin.",
+			"nouns":[
+				"books",
+				"store",
+				"bin"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "books",
+					"quantity": 41
+				},
+				{
+					"noun": "bin",
+					"type": "bargin",
+					"quantity": 0
+				},
+				{
+					"noun": "store",
+					"type": "book",
+					"quantity": 0
+				}								
+			]
+		},
+		
+		{
+			"index":19,
+			"text":"At the fair there were 9 people in line for the bumper cars.",
+			"nouns":[
+				"fair",
+				"cars",
+				"people"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "cars",
+					"type": "bumper",
+					"quantity": 0
+				},
+				{
+					"noun": "people",
+					"quantity": 9
+				}								
+			]
+		},
+		
+		{
+			"index":20,
+			"text":"Paige had 8 songs on her mp3 player.",
+			"nouns":[
+				"player",
+				"Paige",
+				"songs"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "songs",
+					"quantity": 8
+				},
+				{
+					"noun": "player",
+					"type": "mp3"
+					"quantity": 0
+				}								
+			]
+		},
+		
+		{
+			"index":21,
+			"text":"Tiffany was playing a video game and had 43 lives.",
+			"nouns":[
+				"lives",
+				"game",
+				"Tiffany"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "game",
+					"type": "video"
+					"quantity": 0
+				},
+				{
+					"noun": "lives",
+					"quantity": 43
+				}								
+			]
+		},
+		
+		{
+			"index":24,
+			"text":"Chloe was unboxing some of her old winter clothes.",
+			"nouns":[
+				"clothes",
+				"Chloe",
+				"some"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "clothes",
+					"type": "old winter"
+					"quantity": 0
+				}								
+			]
+		},
+		
+		{
+			"index":30,
+			"text":"A pet store has 6 bird cages",
+			"nouns":[
+				"cages",
+				"store"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "store",
+					"type": "pet"
+					"quantity": 0
+				},
+				{
+					"noun": "cages",
+					"quantity": 6
+				}							
+			]
+		},
+		
+		{
+			"index":35,
+			"text":"Luke was putting his spare change into piles.",
+			"nouns":[
+				"change",
+				"Luke"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "change",
+					"type": "spare"
+				}					
+			]
+		},
+		
+		{
+			"index":37,
+			"text":"Wendy bought 4 new chairs and 4 new tables for her house.",
+			"nouns":[
+				"chairs",
+				"tables",
+				"Wendy"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "chairs",
+					"type": "new"
+					"quantity": 4
+				},
+				{
+					"noun": "tables",
+					"type": "new",
+					"quantity": 4
+				}					
+			]
+		},
+		
+		{
+			"index":39,
+			"text":"While shopping for music online, Megan bought 2 country albums and 8 pop albums.",
+			"nouns":[
+				"shopping",
+				"albums",
+				"Megan"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "albums",
+					"type": "country"
+					"quantity": 2
+				},
+				{
+					"noun": "albums",
+					"type": "pop",
+					"quantity": 8
+				}					
+			]
+		},
+		
+		{
+			"index":41,
+			"text":"Faye sold 3 bead necklaces and 7 gem stone necklaces.",
+			"nouns":[
+				"necklaces",
+				"Faye"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "necklaces",
+					"type": "bead"
+					"quantity": 3
+				},
+				{
+					"noun": "necklaces",
+					"type": "gem stone",
+					"quantity": 7
+				}					
+			]
+		},
+		
+		{
+			"index":46,
+			"text":"For a birthday party Jerry bought 41 regular sodas and 22 diet sodas.",
+			"nouns":[
+				"Jerry",
+				"party",
+				"sodas"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "party",
+					"type": "birthday"
+					"quantity": 0
+				},
+				{
+					"noun": "sodas",
+					"type": "regular",
+					"quantity": 41
+				},
+				{
+					"noun": "sodas",
+					"type": "diet",
+					"quantity": 22
+				}				
+			]
+		},
+		
+		{
+			"index":47,
+			"text":"Paige and her friends were recycling paper for their class.",
+			"nouns":[
+				"friends",
+				"paper",
+				"Paige"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "paper",
+					"type": "recycling"
+					"quantity": 0
+				}
+			]
+		},
+		
+		{
+			"index":48,
+			"text":"For homework Nancy had 17 math problems and 15 spelling problems.",
+			"nouns":[
+				"problems",
+				"Nancy"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "problems",
+					"type": "math",
+					"quantity": 17
+				},
+				{
+					"noun": "problems",
+					"type": "spelling",
+					"quantity": 15
+				}	
+			]
+		},
+		
+		{
+			"index":49,
+			"text":"The schools debate team had 11 boys and 45 girls on it.",
+			"nouns":[
+				"team",
+				"boys",
+				"girls"
+			],
+			"nouns_with_types":[
+				{
+					"noun": "girls",
+					"quantity": 45
+				},
+				{
+					"noun": "boys",
+					"quantity": 11
+				},
+				{
+					"noun": "team",
+					"type": "schools debate",
+					"quantity": 0
+				}	
+			]
+		}		
+	]
+}
