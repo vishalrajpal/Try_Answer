@@ -1,125 +1,49 @@
-1) Debby had 32 pieces of candy while her sister had 42(N).
-
-2) A pet store had 13 siamese cats and 5 house cats.(Y)
-
-3) The school cafeteria ordered 42 red apples and 7 green apples for students lunches.(Y)
-
-4) Lana picked 36 tulips and 37 roses to make flower bouquets.(Y)
-
-5) Carol and her mom were picking carrots from their garden.(N)//should say Carol's mom
-
-6) Roger had 16 dollars.(Y)
-
-7) Rachel bought two coloring books.(N)
-	//coding error: twp should be properly parsed as a number.
-	
-8) Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school.(Y)//should be long sleeve shirts
-
-9) Faye had 46 math problems and 9 science problems for homework.(Y)
-
-10) Amy had 4 music files and 21 video files on her flash drive(Y).
-
-11) At the arcade, Tom won 32 tickets playing 'whack a mole' and 25 tickets playing 'skee ball'.(N)
-	//should be whack a mole
-	
-12) There were 39 girls and 4 boys trying out for the schools basketball team.(Y)
-	//should be schools basketball team
-	
-13) At the schools book fair Sam bought 13 adventure books and 17 mystery books.(Y)
-	//should be schools book fair 
-
-14) Edward started his own lawn mowing business.(Y)
-	//should be lawn mowing business.
-
-15) While shopping, Maria bought 35 green towels and 21 white towels.(Y)
-
-16) A waiter at 'The Greasy Spoon' restaurant had 29 customers to wait on.(N)
-	//should be The Greasy Spoon
-
-17) For the school bake sale Carol made 30 cupcakes.(Y)
-	//should be school bake sale
-
-18) A book store had 41 books in the bargin bin.(Y)
-	
-19) At the fair there were 9 people in line for the bumper cars.(Y)
-
-20) Paige had 8 songs on her mp3 player.(Y)
-
-21) Tiffany was playing a video game and had 43 lives.(Y)
-
-22) Maria had 14 bottles of water in her fridge.(M)
-	//should be bottles of water
-
-23) At the town carnival Billy rode the ferris wheel 7 times and the bumper cars 3 times.
-	//quantity 7 times should be identified.(N)
-	
-24) Chloe was unboxing some of her old winter clothes.(Y)
-	//should be old winter clothes
-
-25) April's discount flowers was having a sale where each flower was 3 dollars.(M)
-	//April's discount flowers
-	
-26) Isabel had 2 pages of math homework and 4 pages of reading homework.(N)
-	// homework should be a noun
-
-27) Wendy was playing a video game where she scores 5 points for each treasure she finds.(N)
-	// should have an output of that 'she refers to Wendy'
-
-28) There were 7 friends playing a video game online when 2 more players joined the game.(N)
-	// 'more' is identified as an amod
-
-29) Paul bought 6 boxes of chocolate candy and 4 boxes of caramel candy.(N)
-	// quantity error
-	
-30) A pet store has 6 bird cages.(Y)
-
-31) Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it.(N)
-	//each of the shelves
-
-32) At Billy's Restaurant a group with 2 adults and 5 children came in to eat.(N)
-	//Nouns not identified properly.
-	
-33) While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half.(N)
-	//first half and second half(should half be considered as a noun?)
-	
-34) Haley's favorite band was holding a concert where tickets were 4 dollars each.(N)
-	//quantity error 
-	
-35) Luke was putting his spare change into piles.(Y)
-
-36) Victor and his friend were buying trick decks from the magic shop for 8 dollars each.(N)
-	//quantity error
-	
-37) Wendy bought 4 new chairs and 4 new tables for her house.(Y)
-
-38) George was working as a sacker at a grocery store where he made 5 dollars an hour.(N)
-	// he should refer to George, 5 should refer to dollars
-	
-39) While shopping for music online, Megan bought 2 country albums and 8 pop albums.(Y)
-
-40) A waiter had 6 tables he was waiting on, with 3 women and 5 men at each table.(N)
-	//men, women & he should refer to waiter
-
-41) Faye sold 3 bead necklaces and 7 gem stone necklaces.(Y)
-	// gem stone necklaces should be one entity
-	
-42) Robin uploaded 35 pictures from her phone and 5 from her camera to facebook.(N)
-	// camera and phone should be a noun.
-	
-43) Olivia was making baggies of cookies with 9 cookies in each bag.(N)
-	// cookies should be a noun.
-
-44) Luke made 9 dollars mowing lawns and 18 dollars weed eating.(N)
-	// lawn should be a noun.
-
-45) There school's baseball team had 48 new players and 6 returning players.(N)
-	// should be school's baseball team.
-
-46) For a birthday party Jerry bought 41 regular sodas and 22 diet sodas.(Y)
-
-47) Paige and her friends were recycling paper for their class.(Y)
-
-48) For homework Nancy had 17 math problems and 15 spelling problems.(Y)
-
-49) The schools debate team had 11 boys and 45 girls on it. (Y)
-	// should be school's debate team.
+Debby had 32 pieces of candy while her sister had 42.
+A pet store had 13 siamese cats and 5 house cats.
+The school cafeteria ordered 42 red apples and 7 green apples for students lunches.
+Lana picked 36 tulips and 37 roses to make flower bouquets.
+Carol and her mom were picking carrots from their garden.
+Roger had 16 dollars.
+Rachel bought two coloring books.
+Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school.
+Faye had 46 math problems and 9 science problems for homework.
+Amy had 4 music files and 21 video files on her flash drive.
+At the arcade, Tom won 32 tickets playing 'whack a mole' and 25 tickets playing 'skee ball'.
+There were 39 girls and 4 boys trying out for the schools basketball team.
+At the schools book fair Sam bought 13 adventure books and 17 mystery books.
+Edward started his own lawn mowing business.
+While shopping, Maria bought 35 green towels and 21 white towels.
+A waiter at 'The Greasy Spoon' restaurant had 29 customers to wait on.
+For the school bake sale Carol made 30 cupcakes.
+A book store had 41 books in the bargin bin.
+At the fair there were 9 people in line for the bumper cars.
+Paige had 8 songs on her mp3 player.
+Tiffany was playing a video game and had 43 lives.
+Maria had 14 bottles of water in her fridge.(M)
+At the town carnival Billy rode the ferris wheel 7 times and the bumper cars 3 times.
+Chloe was unboxing some of her old winter clothes.
+April's discount flowers was having a sale where each flower was 3 dollars.(M)
+Isabel had 2 pages of math homework and 4 pages of reading homework.
+Wendy was playing a video game where she scores 5 points for each treasure she finds.
+There were 7 friends playing a video game online when 2 more players joined the game.
+Paul bought 6 boxes of chocolate candy and 4 boxes of caramel candy.
+A pet store has 6 bird cages.
+Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it.
+At Billy's Restaurant a group with 2 adults and 5 children came in to eat.
+While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half.
+Haley's favorite band was holding a concert where tickets were 4 dollars each.
+Luke was putting his spare change into piles.
+Victor and his friend were buying trick decks from the magic shop for 8 dollars each.
+Wendy bought 4 new chairs and 4 new tables for her house.
+George was working as a sacker at a grocery store where he made 5 dollars an hour.
+While shopping for music online, Megan bought 2 country albums and 8 pop albums.
+A waiter had 6 tables he was waiting on, with 3 women and 5 men at each table.
+Faye sold 3 bead necklaces and 7 gem stone necklaces.
+Robin uploaded 35 pictures from her phone and 5 from her camera to facebook.
+Olivia was making baggies of cookies with 9 cookies in each bag.
+Luke made 9 dollars mowing lawns and 18 dollars weed eating.
+There school's baseball team had 48 new players and 6 returning players.
+For a birthday party Jerry bought 41 regular sodas and 22 diet sodas.
+Paige and her friends were recycling paper for their class.
+For homework Nancy had 17 math problems and 15 spelling problems.
+The schools debate team had 11 boys and 45 girls on it.
